@@ -31,3 +31,5 @@ org.springframework.web.servlet.DispatcherServlet
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
+
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
